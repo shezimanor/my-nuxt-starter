@@ -2,7 +2,6 @@
 
 <template>
   <div class="flex w-full min-w-96 flex-col">
-    <AppHeader />
     <div class="h-screen pt-14">
       <slot />
     </div>
